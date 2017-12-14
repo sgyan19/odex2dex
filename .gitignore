@@ -1,0 +1,17 @@
+# Built application files and Maven
+target/
+
+# Compiled class files
+*.class
+
+
+# About IntelliJ
+*.iml
+/.idea/
+/out/
+
+# macOS
+.DS_Store
+
+
+
